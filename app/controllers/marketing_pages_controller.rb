@@ -1,0 +1,4 @@
+class MarketingPagesController < ApplicationController
+
+
+end
